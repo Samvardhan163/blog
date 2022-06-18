@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: c7db29d76dd41eb8f37801cc9c303020d0fc7abbf2675bdcf087fc076170f36c
+- filename: src/component/Bloglist.jsx
+  checksum: 77f021a62bb5c682a3f9aec1656d1817e93273ddba2c78a26c84bf4ebd87f5b8
+- filename: src/component/Todocard.jsx
+  checksum: 3cbe429191728f49cf606aa27496695bd1b005d57364112c88bd1a2ce3661f02
+version: ""
